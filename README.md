@@ -9,7 +9,7 @@
 
 ### add this line to your dependencies
 ```
-toasts: ^0.0.1
+toasts: ^0.0.2
 ```
 ### Import it
 ```dart
